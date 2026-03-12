@@ -2,4 +2,6 @@
 
 This is my personal portfolio site
 
-Currently Under Devlopment, check back soon for updates
+Constructed with HTML, JavaScript, and CSS
+
+Hosted live at https://owenirving.me
